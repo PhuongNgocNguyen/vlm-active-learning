@@ -28,7 +28,8 @@ annotation budget.
 This repository is the official implementation of
 "Leveraging Vision-Language Models as Weak Annotators in Active Learning".
 
-The codebase is built upon the ISOAL implementation:
+The codebase is built as a research extension of the original ISOAL
+implementation:
 https://github.com/matsuo-shinnosuke/ISOAL
 
 ## Main Additions
@@ -188,10 +189,12 @@ overwriting logs and histories.
 
 This codebase is built upon the original ISOAL implementation:
 
-- Original repository: https://github.com/matsuo-shinnosuke/ISOAL
-- Original paper: Instance-wise Supervision-level Optimization in Active Learning, CVPR 2025
+* Original repository: https://github.com/matsuo-shinnosuke/ISOAL
+* Original paper: *Instance-wise Supervision-level Optimization in Active Learning*, CVPR 2025
 
-Please cite the original ISOAL paper if you use this repository.
+We thank the authors of ISOAL for releasing their implementation.
+
+If you use this repository, please cite the original ISOAL paper:
 
 ```bibtex
 @inproceedings{matsuo2025isoal,
@@ -206,5 +209,8 @@ Please cite the original ISOAL paper if you use this repository.
 
 The upstream ISOAL repository does not include an explicit license file in the
 local copy used for this work. Before redistributing or relicensing this
-repository, check the license status of the original project and follow its
-terms.
+repository, please check the license status of the original project and follow
+its terms.
+
+No Gemini API keys, generated labels, datasets, result logs, NumPy arrays, or
+model checkpoints should be committed to this repository.
