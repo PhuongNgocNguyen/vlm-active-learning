@@ -1,7 +1,9 @@
 # Notice
 
-This repository is an unofficial research extension of the ISOAL codebase:
+This repository is the official implementation of
+"Leveraging Vision-Language Models as Weak Annotators in Active Learning".
 
+The codebase is built upon the ISOAL implementation:
 - Repository: https://github.com/matsuo-shinnosuke/ISOAL
 - Paper: Instance-wise Supervision-level Optimization in Active Learning, CVPR 2025
 - Authors: Shinnosuke Matsuo, Riku Togashi, Ryoma Bise, Seiichi Uchida, Masahiro Nomura
