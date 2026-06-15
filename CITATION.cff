@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper and the original ISOAL paper."
+title: "Leveraging Vision-Language Models as Weak Annotators in Active Learning"
+authors:
+  - family-names: Nguyen
+    given-names: Phuong Ngoc
+  - family-names: Shiku
+    given-names: Kaito
+  - family-names: Bise
+    given-names: Ryoma
+  - family-names: Uchida
+    given-names: Seiichi
+  - family-names: Matsuo
+    given-names: Shinnosuke
+keywords:
+  - active learning
+  - vision-language models
+  - weak supervision
+  - fine-grained recognition
+  - CUB200
+  - FGVC-Aircraft
