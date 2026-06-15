@@ -25,12 +25,11 @@ Experiments on CUB200 and FGVC-Aircraft show that the proposed framework
 consistently outperforms existing active learning methods under the same
 annotation budget.
 
-This repository is an unofficial research extension of
-[Instance-wise Supervision-level Optimization in Active Learning (ISOAL)](https://github.com/matsuo-shinnosuke/ISOAL)
-by Matsuo et al., CVPR 2025. The original ISOAL framework selects both the
-instances to annotate and the supervision level for each selected instance under
-an annotation budget. This repository keeps that active-learning core and adds
-experiments with VLM-derived weak labels and optional noisy-label correction.
+This repository is the official implementation of
+"Leveraging Vision-Language Models as Weak Annotators in Active Learning".
+
+The codebase is built upon the ISOAL implementation:
+https://github.com/matsuo-shinnosuke/ISOAL
 
 ## Main Additions
 
