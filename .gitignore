@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and local config
+.env
+.env.*
+venv/
+.venv/
+env/
+.conda/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated datasets and experiment artifacts
+dataset/
+data/
+result/
+result*/
+src/result/
+src/result*/
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# Downloaded archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Local scratch copies from earlier experiments
+/ISOAL/
+/cub/
+/aircraft/
