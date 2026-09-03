@@ -6,6 +6,8 @@
 [Seiichi Uchida](https://arxiv.org/search/cs?searchtype=author&query=Uchida,+S),
 [Shinnosuke Matsuo](https://arxiv.org/search/cs?searchtype=author&query=Matsuo,+S)
 
+**Accepted at IEEE ICIP 2026 (Spotlight Oral).** 
+
 ![Overview](image/overview.png)
 
 [View the overview as a PDF](image/Overview.pdf)
