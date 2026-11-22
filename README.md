@@ -76,7 +76,7 @@ Run all commands below from the repository root.
 
 > [!IMPORTANT]
 > VLM label generation requires your own Gemini API key. Keep the key outside
-> the source code and never commit it to this repository.
+> the source code and never include it in Git commits or push it to GitHub.
 
 Export your key as an environment variable in the current terminal session:
 
